@@ -1,0 +1,106 @@
+@media screen and (max-width: 992px) {
+    .navbar-brand h1{
+        font-size: 14px !important;
+        margin-left: 10px !important;
+    }
+
+.social {
+    margin-right: -50px !important;
+}
+    @media screen and (max-width: 965px) {
+        .navbar-brand h1{
+            font-size: 14px !important;
+            margin-left: 10px !important;
+        }
+        .navbar-brand{
+            display: block !important;
+        }
+        .social {
+           display: block !important;
+        }
+        .nav{
+        display: block;}
+
+    }
+}
+
+
+
+@media screen and (max-width: 762px) {
+.social{
+    display: none !important;
+}
+   .nav-header li {
+        background: gray;
+        margin: 0 !important;
+        z-index:1;
+    }
+    .nav-header li:hover{
+        background: darkgray;
+
+    }
+    .nav-header li a{
+        color:white !important;
+    }
+}
+@media screen and (min-width:768px) and (max-width: 1280px) {
+	blockquote h2:before{
+    content:'\f10d';
+    font-family: FontAwesome;
+color:#a2baba;
+    top:5px !important;
+    left:15px !important;
+position: absolute;
+}
+blockquote h2:after{
+    content:'\f10e';
+    font-family: FontAwesome;
+    color:#a2baba;
+    bottom:20px !important;
+    right:50px !important;
+    position: absolute;
+}
+	
+}
+@media screen and (min-width:320px) and (max-width: 480px) {
+video {
+    position: absolute;
+    top: 62% !important;
+    left: 50%;
+    height: 870px;
+    z-index: -100;
+   
+}
+.video-text{
+  top: 35% !important;
+}
+.video-text h1{
+    font-size: 27px !important;
+}
+blockquote h2:before{
+    content:'\f10d';
+    font-family: FontAwesome;
+color:#a2baba;
+    top:5px !important;
+    left:5px !important;
+position: absolute;
+}
+blockquote h2:after{
+    content:'\f10e';
+    font-family: FontAwesome;
+    color:#a2baba;
+    bottom:20px !important;
+    right:100px !important;
+    position: absolute;
+}
+.feat-posts-title h3{
+	font-size:13px !important;
+}
+#form input[type="text"],#form input[type="email"]{
+	margin-bottom:10px;
+}
+.page_item a{
+	background:transparent !important;
+}
+}
+

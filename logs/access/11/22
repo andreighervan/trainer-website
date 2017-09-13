@@ -1,0 +1,2 @@
+brendonandghe.ga [22/Nov/2016:11:53:08 -0500] 66.249.66.130 - - "GET /robots.txt HTTP/1.0" 500 656 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+brendonandghe.ga [22/Nov/2016:21:48:17 -0500] 66.249.92.67 - - "GET / HTTP/1.0" 200 36683 "-" "Mozilla/5.0 (compatible; Google-Test;)"
